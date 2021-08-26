@@ -14,5 +14,5 @@
   /* set global margin to 0 so we can make custom margins for each component */
   margin: 0 auto;
   /* global font family (change if you want) */
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Lora", serif;
 }
