@@ -1,12 +1,10 @@
 import React from "react";
-import './footer.css';
+import "./footer.css";
 
 export const Footer = () => {
-    return (
+  return (
     <footer>
-        <div>
-            Footer component will go here
-        </div>
+      <div>Copyright © 2021 Mand Cashin</div>
     </footer>
-    );
+  );
 };
